@@ -3,7 +3,7 @@
 A clean and minimalist web page demonstrating CSS typography properties and the integration of third-party syntax highlighting libraries.
 
 ## 🚀 Live Demo
-Check out the live version here:https://soni0301.github.io/CSS-Fonts-Practice/
+Check out the live version here:https://devhacker-soni.github.io/CSS-Fonts-Practice/
 
 ## 🧠 What’s Inside?
 This project focuses on the visual presentation of text and code. Key features include:
